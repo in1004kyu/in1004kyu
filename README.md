@@ -4,4 +4,4 @@
   <a href="https://www.linkedin.com/in/inkyuhan/" target="_blank"><img src="https://img.shields.io/badge/inkyuhan-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 
-HI there! :)
+HI there! :D
